@@ -1,11 +1,11 @@
 /**
  * \file
- *       ESP8266 bridge arduino library 
+ *       cc2530 bridge arduino library 
  * \author
- *       Tuan PM <tuanpm@live.com>
+ *       Yong Li <li_young@126.com>
  */
-#ifndef _ARDUINO_WIFI_H_
-#define _ARDUINO_WIFI_H_
+#ifndef _ARDUINO_CC2530_H_
+#define _ARDUINO_CC2530_H_
 #include <stdint.h>
 #include <HardwareSerial.h>
 #include <Arduino.h>

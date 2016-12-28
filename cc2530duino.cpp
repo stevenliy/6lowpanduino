@@ -1,8 +1,8 @@
 /**
  * \file
- *       ESP8266 bridge arduino library 
+ *       cc2530 bridge arduino library 
  * \author
- *       Tuan PM <tuanpm@live.com>
+ *       Yong Li <li_young@126.com>
  */
 #include "cc2530duino.h"
 
